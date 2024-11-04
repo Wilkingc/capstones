@@ -12,7 +12,7 @@ your name | project name | has data | has SME
 | Mel | Xenophobia | clean xls files with doc file 4on data transformations | Colleague PJW
 | Mel | Spider Behavior | xls & Systat that can be csv | Self & Colleagues
 | Mel | Feritility, Life Hisotry & Health Cues | xls & Systat | self
-| - 
+| - Minerva | So many things | Not available for another 30 to 90 days | Only if the data were to be made available this week
 | - 
 | - 
 | - 
